@@ -22,7 +22,7 @@
 ## 待办
 
 - [x] 建立创作人设 (yang-persona) ✅
-- [ ] 发现竞品对标账号 (yang-competitor-search)
+- [x] 发现竞品对标账号 (yang-competitor-search) ✅
 - [ ] 抓热点选题 (yang-trends)
 
 ## 下个 Bump 资格
