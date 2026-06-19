@@ -41,9 +41,9 @@
     "C": { "alpha": 1.0, "beta": 1.0 },
     "D": { "alpha": 1.0, "beta": 1.0 }
   },
-  "persona_exists": false,
-  "persona_version": null,
-  "persona_name": null,
+  "persona_exists": true,
+  "persona_version": "1.0",
+  "persona_name": "单口相声风格民俗说书人",
   "persona_history": [],
   "knowledge_index_version": null,
   "knowledge_index_exists": false,
