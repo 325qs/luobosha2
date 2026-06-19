@@ -23,7 +23,7 @@
 
 - [x] 建立创作人设 (yang-persona) ✅
 - [x] 发现竞品对标账号 (yang-competitor-search) ✅
-- [ ] 抓热点选题 (yang-trends)
+- [x] 抓热点选题 (yang-trends) ✅
 
 ## 下个 Bump 资格
 需要 ≥10 校准样本，当前 0 — 尚需积累
